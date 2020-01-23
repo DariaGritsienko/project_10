@@ -3,4 +3,4 @@
 2. Проект - проверка полученных знаний Git и регулярных выражений, форма с валидацией
 3. Проект - тренировка!
 4. HTML, CSS, JS, GIT
-5. Страницу можно увидеть, запустив https://dariagritsienko.github.io/project_10.github.io/validation/validation/index.html
+5. Страницу можно увидеть, запустив https://dariagritsienko.github.io/project_10/validation/validation/index.html
